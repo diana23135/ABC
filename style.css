@@ -7,7 +7,7 @@ body {
   background-color: grey; 
 }
 
-h3:not([id]) {
+h3:not([class]) {
   color: green;
 }
 
