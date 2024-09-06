@@ -15,7 +15,11 @@ h3:not([class]) {
   color: blue; 
 }
 
-/* style.css */
+
 #verde {
-  color: red; /* Establece el color del texto a rojo */
+  color: red; 
+}
+
+h5 {
+  cursor: pointer; 
 }
